@@ -37,8 +37,8 @@ Our solution goes beyond simple prediction; it translates data into actionable b
 
 I specialize in building intelligent systems that solve real-world problems. This project represents a synthesis of statistical rigor and modern software engineering practices.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-aggarwal-88a968365/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaurya-aggarwal44)
 
 ---
 *© 2026 Shaurya Aggarwal. All Rights Reserved.*
